@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Taschenrechner Datei Einlesen/1.0.0": {
+        "runtime": {
+          "Taschenrechner Datei Einlesen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taschenrechner Datei Einlesen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

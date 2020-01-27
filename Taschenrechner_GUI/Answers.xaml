@@ -1,0 +1,20 @@
+﻿<Window x:Class="Taschenrechner_GUI.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Taschenrechner_GUI"
+        mc:Ignorable="d"
+        Title="Welche Datei soll eingelesen werden?" Height="450" Width="800">
+    <Grid>
+        <Button Content="Fenster Schließen" HorizontalAlignment="Left" Margin="662,389,0,0" VerticalAlignment="Top" Width="120" Click="Close_Click"/>
+        <RadioButton Name="ShowAnswers" Content="Ergebnisse direkt anzeigen" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top"/>
+        <RadioButton Name="SaveAnswers" Content="Ergebnisse speichern in:" HorizontalAlignment="Left" Margin="10,315,0,0" VerticalAlignment="Top"/>
+        <Button Name="Calculate" Content="Datei berechnen" HorizontalAlignment="Left" Margin="537,389,0,0" VerticalAlignment="Top" Width="120" Click="Calculate_Click"/>
+        <TextBox Name="LoadingPath" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="772" RenderTransformOrigin="0.497,0.273"/>
+        <TextBox Name="SavingPath" HorizontalAlignment="Left" Height="23" Margin="10,335,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="722"/>
+        <TextBlock Name="AnswersTextBlock" HorizontalAlignment="Left" Margin="10,100,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="193" Width="722"/>
+        <Button Name="FileSearch" Content="Datei suchen" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="121" Click="FileSearch_Click"/>
+
+    </Grid>
+</Window>

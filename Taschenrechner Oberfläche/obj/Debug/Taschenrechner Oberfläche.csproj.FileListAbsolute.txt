@@ -1,0 +1,14 @@
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner Oberfläche.csprojAssemblyReference.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Rechnerfenster.g.cs
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\App.g.cs
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner Oberfläche_MarkupCompile.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner Oberfläche_MarkupCompile.lref
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\bin\Debug\Taschenrechner Oberfläche.exe.config
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\bin\Debug\Taschenrechner Oberfläche.exe
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\bin\Debug\Taschenrechner Oberfläche.pdb
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Rechnerfenster.baml
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner Oberfläche.g.resources
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner_Oberfläche.Properties.Resources.resources
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner Oberfläche.csproj.GenerateResource.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner Oberfläche.exe
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner Oberfläche\obj\Debug\Taschenrechner Oberfläche.pdb

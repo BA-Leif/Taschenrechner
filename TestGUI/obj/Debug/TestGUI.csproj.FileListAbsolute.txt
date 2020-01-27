@@ -1,0 +1,14 @@
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\bin\Debug\TestGUI.exe.config
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\bin\Debug\TestGUI.exe
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\bin\Debug\TestGUI.pdb
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI.csprojAssemblyReference.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\MainWindow.g.cs
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\App.g.cs
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI_MarkupCompile.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI_MarkupCompile.lref
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\MainWindow.baml
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI.g.resources
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI.exe
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\TestGUI\obj\Debug\TestGUI.pdb

@@ -1,0 +1,11 @@
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\bin\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.exe
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\bin\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.deps.json
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\bin\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.runtimeconfig.json
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\bin\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.runtimeconfig.dev.json
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\bin\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.dll
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\bin\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.pdb
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\obj\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.csprojAssemblyReference.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\obj\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.AssemblyInfoInputs.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\obj\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.AssemblyInfo.cs
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\obj\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.dll
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Test_NurEinmalErsetzen\obj\Debug\netcoreapp3.0\Test_NurEinmalErsetzen.pdb

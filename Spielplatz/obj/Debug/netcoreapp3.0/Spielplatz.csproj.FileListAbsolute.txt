@@ -1,0 +1,11 @@
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\bin\Debug\netcoreapp3.0\Spielplatz.exe
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\bin\Debug\netcoreapp3.0\Spielplatz.deps.json
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\bin\Debug\netcoreapp3.0\Spielplatz.runtimeconfig.json
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\bin\Debug\netcoreapp3.0\Spielplatz.runtimeconfig.dev.json
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\bin\Debug\netcoreapp3.0\Spielplatz.dll
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\bin\Debug\netcoreapp3.0\Spielplatz.pdb
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\obj\Debug\netcoreapp3.0\Spielplatz.csprojAssemblyReference.cache
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\obj\Debug\netcoreapp3.0\Spielplatz.AssemblyInfoInputs.cache
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\obj\Debug\netcoreapp3.0\Spielplatz.AssemblyInfo.cs
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\obj\Debug\netcoreapp3.0\Spielplatz.dll
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Spielplatz\obj\Debug\netcoreapp3.0\Spielplatz.pdb

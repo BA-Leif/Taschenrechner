@@ -1,0 +1,22 @@
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.exe
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.deps.json
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.runtimeconfig.json
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.runtimeconfig.dev.json
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.dll
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.pdb
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.csprojAssemblyReference.cache
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.AssemblyInfoInputs.cache
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.AssemblyInfo.cs
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.dll
+C:\Users\lerichsen\source\repos\Taschenrechner 2 mit Datei einlesen\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.pdb
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.exe
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.deps.json
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.runtimeconfig.json
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.runtimeconfig.dev.json
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.dll
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\bin\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.pdb
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.csprojAssemblyReference.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.AssemblyInfoInputs.cache
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.AssemblyInfo.cs
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.dll
+C:\Users\lerichsen\source\repos\Taschenrechner\Taschenrechner 3\Taschenrechner 2\obj\Debug\netcoreapp3.0\Taschenrechner Datei Einlesen.pdb
